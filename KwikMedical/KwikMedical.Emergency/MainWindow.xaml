@@ -1,0 +1,30 @@
+﻿<Window x:Class="KwikMedical.Emergency.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KwikMedical.Emergency"
+        mc:Ignorable="d"
+        Background="Aqua"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Kwik Medical Emergency Call System" HorizontalAlignment="Left" Margin="225,10,0,0" VerticalAlignment="Top" Width="350" FontSize="20"/>
+
+        <Label Content="Patient Name:" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Background="White"/>
+        <TextBox x:Name="tBoxPName" HorizontalAlignment="Left" Height="25" Margin="120,81,0,0" Text="Enter Name" VerticalAlignment="Top" Width="200"/>
+
+        <Label Content="Date of Birth:" HorizontalAlignment="Left" Margin="400,80,0,0" VerticalAlignment="Top" Background="White" Width="84"/>
+        <DatePicker x:Name="pDOB" HorizontalAlignment="Left" Margin="520,80,0,0" VerticalAlignment="Top" Width="200"/>
+
+        <Label Content="NHS Registration Number:" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" Background="White"/>
+        <TextBox x:Name="tBoxNHSNos" HorizontalAlignment="Left" Height="25" Margin="200,140,0,0" Text="Enter number" VerticalAlignment="Top" Width="140"/>
+
+        <Label Content="Address" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top" Background="White"/>
+        <TextBox x:Name="tBosPAddr" HorizontalAlignment="Left" Height="25" Margin="120,195,0,0" Text="Address Here" VerticalAlignment="Top" Width="275"/>
+
+        <Label Content="Medical Condition:" HorizontalAlignment="Left" Margin="10,285,0,0" VerticalAlignment="Top" Background="White"/>
+        <TextBox x:Name="tBoxMedCond" HorizontalAlignment="Left" Height="75" Margin="150,285,0,0" TextWrapping="Wrap" Text="Insert Medical Condition(s)" VerticalAlignment="Top" Width="630"/>
+
+        <Button Content="Send Information" HorizontalAlignment="Left" Margin="325,375,0,0" VerticalAlignment="Top" Width="150" FontSize="18" Click="Button_Click"/>
+    </Grid>
+</Window>

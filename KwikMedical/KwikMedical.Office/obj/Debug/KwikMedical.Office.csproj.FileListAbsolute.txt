@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Office.exe.config
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Office.exe
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Office.pdb
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Emergency.exe
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Emergency.pdb
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\KwikMedical.Emergency.exe.config
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\obj\Debug\KwikMedical.Office.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\obj\Debug\KwikMedical.Office.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\obj\Debug\KwikMedical.Office.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\obj\Debug\KwikMedical.Office.exe
+C:\Users\Jonathan\Desktop\KwikMedical\KwikMedical.Office\obj\Debug\KwikMedical.Office.pdb
