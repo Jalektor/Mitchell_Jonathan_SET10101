@@ -56,5 +56,10 @@ namespace KwikMedical.Emergency.Communication
             }
 
         }
+
+        public void InsertInfo()
+        {
+
+        }
     }
 }

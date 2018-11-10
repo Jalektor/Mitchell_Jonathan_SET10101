@@ -30,8 +30,6 @@ namespace KwikMedical.Office
                 byte[] bytes = new byte[1024];
                 string data = null;
 
-                while (true)
-                {
                     Console.WriteLine("Waiting for a Connection...");
 
                     TcpClient client = server.AcceptTcpClient();
@@ -51,10 +49,16 @@ namespace KwikMedical.Office
                         string message = _Patient.FormMessage();
 
                         Console.WriteLine(message);
+
+                        Console.WriteLine("Reading from DB");
+
+                        string odbcMessage = _Patient.SendToODBC();
+
+
+                        Console.WriteLine(odbcMessage);
                     }
 
                     client.Close();
-                }
             }
             catch(SocketException e)
             {

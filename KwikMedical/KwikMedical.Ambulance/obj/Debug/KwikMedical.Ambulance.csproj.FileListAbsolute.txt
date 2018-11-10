@@ -1,0 +1,17 @@
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\bin\Debug\KwikMedical.Ambulance.exe.config
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\bin\Debug\KwikMedical.Ambulance.exe
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\bin\Debug\KwikMedical.Ambulance.pdb
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.csprojAssemblyReference.cache
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\MainWindow.g.cs
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\App.g.cs
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance_MarkupCompile.cache
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance_MarkupCompile.lref
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\MainWindow.baml
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.g.resources
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.Properties.Resources.resources
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.csproj.GenerateResource.cache
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.csproj.CoreCompileInputs.cache
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.exe
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.pdb
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\bin\Debug\System.Data.Odbc.dll
+C:\Users\j_mit\Desktop\KwikMedical\KwikMedical.Ambulance\obj\Debug\KwikMedical.Ambulance.csproj.CopyComplete
